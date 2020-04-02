@@ -3,7 +3,6 @@ package com.mars.locationservice.model;
 
 public class LocationDetails {
 
-
     private String ipAddress;
     private String city;
     private String country;
